@@ -1,1 +1,2 @@
-# My FIrst Repo
+# My First Repo
+Contribute for a cookie :-)
